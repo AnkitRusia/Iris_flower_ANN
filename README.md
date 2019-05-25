@@ -1,6 +1,7 @@
 # Iris_flower_ANN
 
 An artificial neural network which is trained on 120 samples of iris flower data set and tested on 30 samples of testing data.
+[Iris info](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
 # Network Summary
 
