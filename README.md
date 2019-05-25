@@ -1,7 +1,16 @@
 # Iris_flower_ANN
 
 An artificial neural network which is trained on 120 samples of iris flower data set and tested on 30 samples of testing data.
+
 [Iris flower dataset info](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+[Neural Network info](https://en.wikipedia.org/wiki/Neural_network)
+[Keras Info](https://keras.io)
+
+# Modules used
+1. Keras
+2. Numpy
+3. sklearn
+
 
 # Network Summary
 
