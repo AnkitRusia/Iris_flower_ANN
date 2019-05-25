@@ -4,7 +4,7 @@ An artificial neural network which is trained on 120 samples of iris flower data
 
 # Network Summary
 
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 dense_1 (Dense)              (None, 16)                80        
 _________________________________________________________________
@@ -15,6 +15,7 @@ _________________________________________________________________
 dropout_2 (Dropout)          (None, 32)                0         
 _________________________________________________________________
 dense_3 (Dense)              (None, 3)                 99        
+
 =================================================================
 Total params: 723
 Trainable params: 723
